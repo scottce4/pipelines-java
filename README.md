@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/cscott0747/Pipelines_Test_Java/_apis/build/status/scottce4.pipelines-java?branchName=master)](https://dev.azure.com/cscott0747/Pipelines_Test_Java/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
